@@ -1,0 +1,4 @@
+﻿  main.c
+Z:\Egyetem\Temalab\Homwork\LabGen\main.c(76,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+Z:\Egyetem\Temalab\Homwork\LabGen\main.c(100,43): warning C4013: 'findANeighborDistance' undefined; assuming extern returning int
+  LabGen.vcxproj -> Z:\Egyetem\Temalab\Homwork\LabGen\Debug\LabGen.exe
