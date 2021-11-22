@@ -1,2 +1,4 @@
 Z:\Egyetem\Temalab\Homwork\LabGen\Debug\LabGen.exe
 Z:\Egyetem\Temalab\Homwork\LabGen\Debug\LabGen.pdb
+Z:\Egyetem\Temalab\Homework\LabGen\Debug\LabGen.exe
+Z:\Egyetem\Temalab\Homework\LabGen\Debug\LabGen.pdb
